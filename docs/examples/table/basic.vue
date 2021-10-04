@@ -17,7 +17,7 @@ export default {
           address: 'No. 189, Grove St, Los Angeles',
         },
         {
-          date: '2016-05-02',
+          date: '201-02',
           name: 'Tom',
           address: 'No. 189, Grove St, Los Angeles',
         },
